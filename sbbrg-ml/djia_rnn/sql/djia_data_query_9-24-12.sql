@@ -1,0 +1,1 @@
+SELECT date, symbol, close FROM historicalDay.ohlc WHERE date >= '2012-09-24' AND date < '2013-09-26' AND symbol IN ('AA','AXP','BA','BAC','CAT','CSCO','CVX','DD','DIS','GE','HD','HPQ','IBM','INTC','JNJ','JPM','KO','MCD','MMM','MRK','MSFT','PFE','PG','T','TRV','UNH','UTX','VZ','WMT','XOM','^DJI') ORDER BY date ASC;

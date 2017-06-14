@@ -1,0 +1,204 @@
+train dataset size: 2933, test dataset size: 1446
+Epoch 1/100
+6s - loss: 7.9405e-04
+Epoch 2/100
+6s - loss: 3.3977e-04
+Epoch 3/100
+6s - loss: 2.7838e-04
+Epoch 4/100
+6s - loss: 2.5230e-04
+Epoch 5/100
+6s - loss: 2.2993e-04
+Epoch 6/100
+6s - loss: 2.0714e-04
+Epoch 7/100
+6s - loss: 2.0960e-04
+Epoch 8/100
+6s - loss: 1.8740e-04
+Epoch 9/100
+6s - loss: 1.7928e-04
+Epoch 10/100
+6s - loss: 1.7829e-04
+Epoch 11/100
+6s - loss: 1.6981e-04
+Epoch 12/100
+6s - loss: 1.6415e-04
+Epoch 13/100
+6s - loss: 1.6698e-04
+Epoch 14/100
+6s - loss: 1.5525e-04
+Epoch 15/100
+6s - loss: 1.5704e-04
+Epoch 16/100
+6s - loss: 1.5476e-04
+Epoch 17/100
+6s - loss: 1.5370e-04
+Epoch 18/100
+6s - loss: 1.5176e-04
+Epoch 19/100
+6s - loss: 1.4785e-04
+Epoch 20/100
+6s - loss: 1.4104e-04
+Epoch 21/100
+6s - loss: 1.4395e-04
+Epoch 22/100
+6s - loss: 1.4767e-04
+Epoch 23/100
+6s - loss: 1.4343e-04
+Epoch 24/100
+6s - loss: 1.4723e-04
+Epoch 25/100
+7s - loss: 1.4602e-04
+Epoch 26/100
+8s - loss: 1.3940e-04
+Epoch 27/100
+14s - loss: 1.3683e-04
+Epoch 28/100
+13s - loss: 1.4036e-04
+Epoch 29/100
+8s - loss: 1.3308e-04
+Epoch 30/100
+8s - loss: 1.3061e-04
+Epoch 31/100
+8s - loss: 1.3261e-04
+Epoch 32/100
+7s - loss: 1.3115e-04
+Epoch 33/100
+9s - loss: 1.2860e-04
+Epoch 34/100
+6s - loss: 1.3010e-04
+Epoch 35/100
+7s - loss: 1.3132e-04
+Epoch 36/100
+6s - loss: 1.2926e-04
+Epoch 37/100
+7s - loss: 1.2673e-04
+Epoch 38/100
+7s - loss: 1.2030e-04
+Epoch 39/100
+7s - loss: 1.2541e-04
+Epoch 40/100
+11s - loss: 1.1963e-04
+Epoch 41/100
+8s - loss: 1.1988e-04
+Epoch 42/100
+8s - loss: 1.2172e-04
+Epoch 43/100
+9s - loss: 1.2529e-04
+Epoch 44/100
+9s - loss: 1.2415e-04
+Epoch 45/100
+11s - loss: 1.2151e-04
+Epoch 46/100
+12s - loss: 1.1483e-04
+Epoch 47/100
+11s - loss: 1.2274e-04
+Epoch 48/100
+8s - loss: 1.2040e-04
+Epoch 49/100
+8s - loss: 1.1450e-04
+Epoch 50/100
+10s - loss: 1.2020e-04
+Epoch 51/100
+10s - loss: 1.1336e-04
+Epoch 52/100
+16s - loss: 1.1562e-04
+Epoch 53/100
+15s - loss: 1.1515e-04
+Epoch 54/100
+14s - loss: 1.1556e-04
+Epoch 55/100
+15s - loss: 1.1305e-04
+Epoch 56/100
+12s - loss: 1.1546e-04
+Epoch 57/100
+11s - loss: 1.1700e-04
+Epoch 58/100
+11s - loss: 1.1197e-04
+Epoch 59/100
+11s - loss: 1.1516e-04
+Epoch 60/100
+11s - loss: 1.1372e-04
+Epoch 61/100
+12s - loss: 1.1620e-04
+Epoch 62/100
+15s - loss: 1.1719e-04
+Epoch 63/100
+16s - loss: 1.1104e-04
+Epoch 64/100
+14s - loss: 1.1325e-04
+Epoch 65/100
+11s - loss: 1.1206e-04
+Epoch 66/100
+12s - loss: 1.0409e-04
+Epoch 67/100
+13s - loss: 1.1375e-04
+Epoch 68/100
+12s - loss: 1.0627e-04
+Epoch 69/100
+13s - loss: 1.1058e-04
+Epoch 70/100
+13s - loss: 1.0622e-04
+Epoch 71/100
+13s - loss: 1.1253e-04
+Epoch 72/100
+10s - loss: 1.0727e-04
+Epoch 73/100
+9s - loss: 1.0673e-04
+Epoch 74/100
+10s - loss: 1.1146e-04
+Epoch 75/100
+10s - loss: 1.1335e-04
+Epoch 76/100
+10s - loss: 1.0646e-04
+Epoch 77/100
+11s - loss: 1.0525e-04
+Epoch 78/100
+10s - loss: 1.0962e-04
+Epoch 79/100
+10s - loss: 1.1264e-04
+Epoch 80/100
+10s - loss: 1.0930e-04
+Epoch 81/100
+16s - loss: 1.0843e-04
+Epoch 82/100
+18s - loss: 1.0452e-04
+Epoch 83/100
+12s - loss: 1.0667e-04
+Epoch 84/100
+10s - loss: 1.0279e-04
+Epoch 85/100
+10s - loss: 1.0794e-04
+Epoch 86/100
+10s - loss: 1.0521e-04
+Epoch 87/100
+10s - loss: 1.0978e-04
+Epoch 88/100
+10s - loss: 1.0557e-04
+Epoch 89/100
+10s - loss: 1.0494e-04
+Epoch 90/100
+10s - loss: 1.0312e-04
+Epoch 91/100
+10s - loss: 1.0842e-04
+Epoch 92/100
+11s - loss: 1.0436e-04
+Epoch 93/100
+10s - loss: 1.0477e-04
+Epoch 94/100
+11s - loss: 1.0082e-04
+Epoch 95/100
+10s - loss: 1.0161e-04
+Epoch 96/100
+11s - loss: 1.0326e-04
+Epoch 97/100
+11s - loss: 1.0995e-04
+Epoch 98/100
+11s - loss: 1.0293e-04
+Epoch 99/100
+11s - loss: 1.0502e-04
+Epoch 100/100
+11s - loss: 1.0248e-04
+Train Score: 16.75 RMSE
+Test Score: 442.14 RMSE
+
